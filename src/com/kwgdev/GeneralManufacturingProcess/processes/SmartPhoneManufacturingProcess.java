@@ -1,6 +1,4 @@
-package GeneralManufacturingProcess.processes;
-
-import GeneralManufacturingProcess.processes.GeneralManufacturingProcess;
+package com.kwgdev.GeneralManufacturingProcess.processes;
 
 public class SmartPhoneManufacturingProcess  extends GeneralManufacturingProcess {
 

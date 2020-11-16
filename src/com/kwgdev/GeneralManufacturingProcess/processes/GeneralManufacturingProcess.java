@@ -1,4 +1,4 @@
-package GeneralManufacturingProcess.processes;
+package com.kwgdev.GeneralManufacturingProcess.processes;
 
 
 // Template Method Design Pattern - often used in abstracting workloads and workflows
